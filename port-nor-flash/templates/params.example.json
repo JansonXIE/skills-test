@@ -1,0 +1,6 @@
+{
+  "name": "BY25FQ256ES",
+  "jedec": "0x684019",
+  "density": "256Mb",
+  "fixups": "sr_bit1_qe_fixups"
+}
