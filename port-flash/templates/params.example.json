@@ -1,0 +1,13 @@
+{
+  "_comment": "Fill from the datasheet. Every field is agent-verified, NOT auto-guessed. See SKILL.md field table.",
+  "name": "UM19A1HISW",
+  "mid": "0xB0",
+  "did": "0x24",
+  "density": "2Gb",
+  "pagesize": "2K",
+  "oobsize": 128,
+  "ecc_bits": 3,
+  "strength_ds": 8,
+  "remap": "ECC_3bits_remap",
+  "driver": "unim"
+}
