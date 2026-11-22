@@ -1,0 +1,13 @@
+# !! You must modify type and socpe according to the reference below !!
+#
+# Reference    1.type:feat|fix|docs|style|refactor|perf|test|chore|revert
+#              2.scope : The scope of the changes you submit eg: system|venc|audioltpu....
+#              3.Affected *.ko/*.so/*.a : If your changes affect files with the suffix *.ko/*.so/*.a, please record the file name.
+[type](scope):
+
+[description ]:NA
+[root   cause]:NA
+[JIRA      ID]:NA
+[chip project]:NA
+[side effects]:NA
+[Affected *.ko/*.so/*.a] :NA
